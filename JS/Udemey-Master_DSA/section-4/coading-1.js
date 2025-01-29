@@ -19,7 +19,8 @@ function checkCommonItem(arr1, arr2) {
         return true;
     }
   }
+
   return false;
 }
 
-console.log(checkCommonItem(arr1, arr2));
+//console.log(checkCommonItem(arr1, arr2));
